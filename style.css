@@ -2,9 +2,9 @@ html, body {
     
     margin: 0;
     height: 1000px;
-    width: auto;
+    
     background: #A9A9A9;
-    background-blend-mode: normal, lighten, soft-light;
+    
   }
 
 /* -----заголовок-----*/
@@ -18,7 +18,7 @@ html, body {
   font-size: 4em;
   text-align:center;
   height:400px;
-  width:900px;
+  width:850px;
   display:block;
   position:absolute;
   color:white;
