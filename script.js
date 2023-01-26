@@ -55,8 +55,8 @@ function consoleText(words, id, colors) {
 document.addEventListener('DOMContentLoaded', () => {
     // инициализация слайдера
     new ItcSimpleSlider('.itcss', {
-      loop: true,
-      autoplay: true,
+      loop: false,
+      autoplay: false,
       interval: 2600,
       swipe: true,
     });
